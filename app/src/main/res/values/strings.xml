@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daftar Belanja</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_download">Download (Pull)</string>
+    <string name="action_upload">Upload (Push)</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_update">Update</string>
+    <string name="task_not_updated">Task not updated because description is empty</string>
+    <string name="new_task">New Task</string>
+    <string name="update_task">Update Task</string>
+    <string name="enter_description">Enter task description</string>
+    <string name="task_not_created">Task not created because description is empty</string>
+    <string name="replication_running">Replication is running</string>
+    <string name="replication_completed">Replication completed</string>
+    <string name="replication_error">Error replicating with Cloudant, ensure your Cloudant credentials are accurate, you have created a database with appropriate permissions, and you have connection to the internet. See Android logs for more info.</string>
+    <string name="replication_failed">Replication Failed</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_close">Close Application</string>
+
+</resources>
